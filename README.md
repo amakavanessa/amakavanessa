@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Precious Nnam</b></h1>
-<h4 align = 'center'>I'm a web developer who specializes in using TypeScript,MERN stack technologies, PHP, and mySQL databases.</h4>
+<h4 align = 'center'>I'm a web developer who specializes in using TypeScript,ReactJs,NodeJs, PHP,MongoDB and mySQL databases.</h4>
 <br>
 
 ### 🌱 I’m currently mastering 
