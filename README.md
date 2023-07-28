@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Precious Nnam</b></h1>
-<h4 align = 'center'>I'm a Fullstack Software Developer.</h4>
+<h4 align = 'center'>I'm a Fullstack Software Engineer.</h4>
 <br>
 
 ### 🌱 My Expertise
 I specialize in creating fully responsive, efficient, and scalable user-centric web solutions, as well as developing APIs for applications. As a great learner and problem solver, I have a flair for crafting elegant solutions in the least amount of time and also have the ability to seamlessly transform designs into intuitive User Interfaces(UI) that enhance user experiences.
 
-In addition to my core skills, I am proficient in automated browser testing and proficiently leverage Cloudflare and Firebase services.
+In addition to my web development skills, I'm proficient in automated browser testing and proficiently leverage Cloudflare and Firebase services.
 
 
 ### 👯 I’m looking to collaborate with 
