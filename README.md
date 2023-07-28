@@ -2,8 +2,11 @@
 <h4 align = 'center'>I'm a Fullstack Software Developer.</h4>
 <br>
 
-### 🌱 I’m currently mastering 
-Data structures and algorithms, with a focus on optimizing web application performance and solving complex programming challenges.Through reading textbooks, online courses, and participation in coding challenges, I have gained experience in implementing various data structures and algorithms, including linked lists, stacks, queues, binary trees, sorting algorithms, and search algorithms.**
+### 🌱 My Expertise
+I specialize in creating fully responsive, efficient, and scalable user-centric web solutions, as well as developing APIs for applications. As a great learner and problem solver, I have a flair for crafting elegant solutions in the least amount of time and also have the ability to seamlessly transform designs into intuitive User Interfaces(UI) that enhance user experiences.
+
+In addition to my core skills, I am proficient in automated browser testing and proficiently leverage Cloudflare and Firebase services.
+
 
 ### 👯 I’m looking to collaborate with 
 Companies and individuals who value efficient, responsive, and scalable web solutions.
