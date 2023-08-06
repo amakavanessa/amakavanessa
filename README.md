@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Precious Nnam</b></h1>
-<h4 align = 'center'>I'm a Fullstack Software Engineer.</h4>
+<h4 align = 'center'>A Fullstack Software Engineer.</h4>
 <br>
 
 ### 🌱 My Expertise
