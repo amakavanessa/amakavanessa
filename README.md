@@ -13,7 +13,6 @@ Companies and individuals who value efficient, responsive, and scalable web solu
 
 <p>⚡When I'm not coding, you'll find me exploring the beauty of the world around me and expressing my creativity through written words.</p>
 
-📝 You can read my articles on [learnhub.africa](learnhub.africa) <br><br><br>
 
 ***
 
