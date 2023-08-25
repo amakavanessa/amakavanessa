@@ -11,7 +11,7 @@ In addition to my web development skills, I'm proficient in automated browser te
 ### 👯 I’m looking to collaborate with 
 Companies and individuals who value efficient, responsive, and scalable web solutions.
 
-<p>⚡When I'm not coding, you'll find me exploring the beauty of the world around me and expressing my creativity through written words.</p>
+<p>⚡When I'm not coding, you'll find me exploring the beauty of the world around me and expressing creativity through written words.</p>
 
 
 ***
